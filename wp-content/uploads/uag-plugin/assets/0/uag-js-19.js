@@ -7,4 +7,7 @@ window.addEventListener( 'load', function() {
 window.addEventListener( 'load', function() {
 	UAGBButtonChild.init( '.uagb-block-1fecf6a9' );
 });
+window.addEventListener( 'load', function() {
+	UAGBButtonChild.init( '.uagb-block-393c25ce' );
+});
  });
