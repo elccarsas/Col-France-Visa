@@ -12,12 +12,12 @@
 	<atom:link href="https://elccarsas.github.io/Col-France-Visa/feed/" rel="self" type="application/rss+xml" />
 	<link>https://elccarsas.github.io/Col-France-Visa/</link>
 	<description></description>
-	<lastBuildDate>Thu, 21 Nov 2024 15:57:56 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 25 Nov 2024 17:49:13 +0000</lastBuildDate>
 	<language>es-CO</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.7</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 </channel>
 </rss>
